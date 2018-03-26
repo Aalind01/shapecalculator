@@ -1,0 +1,69 @@
+@media only screen and (min-width: 768px) {
+    .navbar{
+        background: url('../img/nav.png');
+        border-color: #9d9d9d;
+    }
+}
+
+.navbar-brand{
+    color: #9d9d9d !important;
+}
+
+.sc-desc-main{
+    font-size: 12px;
+}
+
+.sc-desc{
+    font-weight: bold;
+}
+
+.bw-footer{
+    text-align: center;
+}
+
+#steps-container .actions{
+    margin-top: 10px;
+}
+
+.bw-parent-row{
+    margin-top: 10px;
+}
+
+#steps-container{
+    border: 1px solid black;
+    padding: 10px; 
+}
+
+.bw-shape-prop{
+    text-transform: lowercase;
+}
+
+.bw-result-main{
+    text-align: center;
+    padding: 40px;
+    font-size: 30px;
+}
+@media only screen and (max-width: 768px) {
+    .bw-result-main{
+        padding: 20px;
+        font-size: 20px;
+    }
+}
+
+[v-cloak] {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
